@@ -1,0 +1,11 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\01.Max-Sequence-of-Equal-Elements\bin\Debug\netcoreapp2.1\01.Max-Sequence-of-Equal-Elements.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\01.Max-Sequence-of-Equal-Elements\bin\Debug\netcoreapp2.1\01.Max-Sequence-of-Equal-Elements.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\01.Max-Sequence-of-Equal-Elements\bin\Debug\netcoreapp2.1\01.Max-Sequence-of-Equal-Elements.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\01.Max-Sequence-of-Equal-Elements\bin\Debug\netcoreapp2.1\01.Max-Sequence-of-Equal-Elements.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\01.Max-Sequence-of-Equal-Elements\bin\Debug\netcoreapp2.1\01.Max-Sequence-of-Equal-Elements.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\01.Max-Sequence-of-Equal-Elements\obj\Debug\netcoreapp2.1\01.Max-Sequence-of-Equal-Elements.csprojAssemblyReference.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\01.Max-Sequence-of-Equal-Elements\obj\Debug\netcoreapp2.1\01.Max-Sequence-of-Equal-Elements.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\01.Max-Sequence-of-Equal-Elements\obj\Debug\netcoreapp2.1\01.Max-Sequence-of-Equal-Elements.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\01.Max-Sequence-of-Equal-Elements\obj\Debug\netcoreapp2.1\01.Max-Sequence-of-Equal-Elements.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\01.Max-Sequence-of-Equal-Elements\obj\Debug\netcoreapp2.1\01.Max-Sequence-of-Equal-Elements.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\01.Max-Sequence-of-Equal-Elements\obj\Debug\netcoreapp2.1\01.Max-Sequence-of-Equal-Elements.pdb

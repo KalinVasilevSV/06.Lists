@@ -1,0 +1,11 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\05.Array-Manipulator\obj\Debug\netcoreapp2.1\05.Array-Manipulator.csprojAssemblyReference.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\05.Array-Manipulator\obj\Debug\netcoreapp2.1\05.Array-Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\05.Array-Manipulator\obj\Debug\netcoreapp2.1\05.Array-Manipulator.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\05.Array-Manipulator\obj\Debug\netcoreapp2.1\05.Array-Manipulator.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\05.Array-Manipulator\bin\Debug\netcoreapp2.1\05.Array-Manipulator.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\05.Array-Manipulator\bin\Debug\netcoreapp2.1\05.Array-Manipulator.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\05.Array-Manipulator\bin\Debug\netcoreapp2.1\05.Array-Manipulator.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\05.Array-Manipulator\bin\Debug\netcoreapp2.1\05.Array-Manipulator.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\05.Array-Manipulator\bin\Debug\netcoreapp2.1\05.Array-Manipulator.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\05.Array-Manipulator\obj\Debug\netcoreapp2.1\05.Array-Manipulator.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\05.Array-Manipulator\obj\Debug\netcoreapp2.1\05.Array-Manipulator.pdb

@@ -1,0 +1,11 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\04.Longest-Increasing-Subsequence\bin\Debug\netcoreapp2.1\04.Longest-Increasing-Subsequence.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\04.Longest-Increasing-Subsequence\bin\Debug\netcoreapp2.1\04.Longest-Increasing-Subsequence.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\04.Longest-Increasing-Subsequence\bin\Debug\netcoreapp2.1\04.Longest-Increasing-Subsequence.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\04.Longest-Increasing-Subsequence\bin\Debug\netcoreapp2.1\04.Longest-Increasing-Subsequence.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\04.Longest-Increasing-Subsequence\bin\Debug\netcoreapp2.1\04.Longest-Increasing-Subsequence.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\04.Longest-Increasing-Subsequence\obj\Debug\netcoreapp2.1\04.Longest-Increasing-Subsequence.csprojAssemblyReference.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\04.Longest-Increasing-Subsequence\obj\Debug\netcoreapp2.1\04.Longest-Increasing-Subsequence.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\04.Longest-Increasing-Subsequence\obj\Debug\netcoreapp2.1\04.Longest-Increasing-Subsequence.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\04.Longest-Increasing-Subsequence\obj\Debug\netcoreapp2.1\04.Longest-Increasing-Subsequence.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\04.Longest-Increasing-Subsequence\obj\Debug\netcoreapp2.1\04.Longest-Increasing-Subsequence.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\04.Longest-Increasing-Subsequence\obj\Debug\netcoreapp2.1\04.Longest-Increasing-Subsequence.pdb

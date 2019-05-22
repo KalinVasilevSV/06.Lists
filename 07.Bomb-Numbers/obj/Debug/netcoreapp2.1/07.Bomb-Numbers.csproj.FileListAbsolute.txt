@@ -1,0 +1,11 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\07.Bomb-Numbers\bin\Debug\netcoreapp2.1\07.Bomb-Numbers.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\07.Bomb-Numbers\bin\Debug\netcoreapp2.1\07.Bomb-Numbers.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\07.Bomb-Numbers\bin\Debug\netcoreapp2.1\07.Bomb-Numbers.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\07.Bomb-Numbers\bin\Debug\netcoreapp2.1\07.Bomb-Numbers.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\07.Bomb-Numbers\bin\Debug\netcoreapp2.1\07.Bomb-Numbers.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\07.Bomb-Numbers\obj\Debug\netcoreapp2.1\07.Bomb-Numbers.csprojAssemblyReference.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\07.Bomb-Numbers\obj\Debug\netcoreapp2.1\07.Bomb-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\07.Bomb-Numbers\obj\Debug\netcoreapp2.1\07.Bomb-Numbers.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\07.Bomb-Numbers\obj\Debug\netcoreapp2.1\07.Bomb-Numbers.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\07.Bomb-Numbers\obj\Debug\netcoreapp2.1\07.Bomb-Numbers.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\07.Bomb-Numbers\obj\Debug\netcoreapp2.1\07.Bomb-Numbers.pdb

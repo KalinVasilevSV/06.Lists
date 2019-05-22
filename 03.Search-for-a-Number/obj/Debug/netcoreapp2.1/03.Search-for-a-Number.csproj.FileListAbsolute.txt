@@ -1,0 +1,11 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\03.Search-for-a-Number\bin\Debug\netcoreapp2.1\03.Search-for-a-Number.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\03.Search-for-a-Number\bin\Debug\netcoreapp2.1\03.Search-for-a-Number.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\03.Search-for-a-Number\bin\Debug\netcoreapp2.1\03.Search-for-a-Number.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\03.Search-for-a-Number\bin\Debug\netcoreapp2.1\03.Search-for-a-Number.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\03.Search-for-a-Number\bin\Debug\netcoreapp2.1\03.Search-for-a-Number.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\03.Search-for-a-Number\obj\Debug\netcoreapp2.1\03.Search-for-a-Number.csprojAssemblyReference.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\03.Search-for-a-Number\obj\Debug\netcoreapp2.1\03.Search-for-a-Number.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\03.Search-for-a-Number\obj\Debug\netcoreapp2.1\03.Search-for-a-Number.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\03.Search-for-a-Number\obj\Debug\netcoreapp2.1\03.Search-for-a-Number.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\03.Search-for-a-Number\obj\Debug\netcoreapp2.1\03.Search-for-a-Number.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\06.Lists\03.Search-for-a-Number\obj\Debug\netcoreapp2.1\03.Search-for-a-Number.pdb
